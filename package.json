@@ -1,0 +1,10 @@
+{
+  "name": "BeyondJS Types",
+  "author": "Socites",
+  "version": "0.0.1",
+  "main": "./lib",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "ajv": "^6.5.2"
+  }
+}
